@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](./assets/banner.jpeg)
+![Akashdeep Singh Banner](./assets/banner.jpeg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Akashdeep</h2>
 
@@ -11,7 +11,7 @@
 ⚡  Fun fact: I love treking🏕️, reading novels 📖\
 💬 &nbsp;I am passionate about creating amazing, potent software solutions that bring societal improvements and keenly look forward to connect with like-minded professionals.\
 📩 &nbsp;You can shoot me an email at akashdeepjassal@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me.
+📄 &nbsp;Please have a look at my [Résumé](./assets/akashdeep_resume.pdf) for more details about me.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -40,15 +40,15 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AkashDeepSinghJassal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AkashDeepSinghJassal&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AkashDeepSinghJassal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AkashDeepSinghJassal&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/Akashdeep Singh-0077B5?style=plastic&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/akashdeep-singh-32a8a21b5/"><img src="https://img.shields.io/badge/Akashdeep Singh-0077B5?style=plastic&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:akashdeepjassal@gmail.com"><img src="https://img.shields.io/badge/-akashdeepjassal@gmail.com-D14836?style=plastic&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/akashdeep_pb65"><img src="https://img.shields.io/badge/-@akashdeep__pb65-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
 </p>
