@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💻 &nbsp; Working as a software engineer at Beltech AI on intelligent traffic management systems. \
+💻 &nbsp; Working as a software engineer at Beltech AI on intelligent traffic management systems \
 💡 &nbsp;As an engineer, I create innovate and scalable solutions that largely impact people day to day life activities \
 🌱 To nourish myself, I read about engineering blogs of internals of programming languages and backend systems.\
 ⚡  Fun fact: I love treking🏕️, reading novels 📖\
@@ -13,7 +13,7 @@
 📩 &nbsp;You can shoot me an email at akashdeepjassal@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](./assets/akashdeep_resume.pdf) for more details about me.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -39,7 +39,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/AkashDeepSinghJassal">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AkashDeepSinghJassal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AkashDeepSinghJassal&layout=compact&langs_count=8&theme=algolia"/>
 </a>
